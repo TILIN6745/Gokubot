@@ -8,18 +8,18 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['529934556133 ', '👑 MICH BOT - Creador 👑', true],
-  ['525634990524', '💫 MICH BOT - Collaborator 1 💫', true],
+  ['5218336105471 ', '👑 TILIN - Creador 👑', true],
+  ['5218336105471', '💫 GOKU BOT - Collaborator 1 💫', true],
 
-global.suittag = ['529934556133'];
-global.prems = ['529934556133'];
+global.suittag = ['5218336105471'];
+global.prems = ['5218336105471'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';
-global.wm = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';
-global.titulowm = '🤖 ＴＨＥ Ｍich － ＢＯＴ 🤖';
-global.titulowm2 = `乂  𝚃 𝙷 𝙴  MICH  -  𝙱 𝙾 𝚃  乂`
-global.igfg = '★𝚃𝚑𝚎 𝙼ich - 𝙱𝚘𝚝★';
+global.author = '𝑮𝑶𝑲𝑼 𝑩𝑶𝑻;
+global.wm = '𝑮𝑶𝑲𝑼 𝑩𝑶𝑻;
+global.titulowm = '🤖 𝑻𝑯𝑬 𝑮𝑶𝑲𝑼 － 𝑩𝑶𝑻 🤖';
+global.titulowm2 = `乂  𝑻𝑯𝑬 𝑮𝑶𝑲𝑼  -  𝑩𝑶𝑻  乂`
+global.igfg = '★𝑮𝑶𝑲𝑼 𝑩𝑶𝑻★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -40,9 +40,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
-global.gt = '💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖';
-global.mysticbot = '★𝚃𝚑𝚎 𝙼ich - 𝙱𝚘𝚝★';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑮𝑶𝑲𝑼 - 𝙱𝚘𝚝`;
+global.gt = '𝑮𝑶𝑲𝑼 𝑩𝑶𝑻;
+global.mysticbot = '★𝑮𝑶𝑲𝑼 - 𝑩𝑶𝑻★';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
