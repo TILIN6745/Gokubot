@@ -21,15 +21,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *💖𝐌𝐈𝐂𝐇 𝐁𝐎𝐓💖* —◉
+║    ◉— *𝑮𝑶𝑲𝑼 𝑩𝑶𝑻* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Mich 
-║➤ *Numero:* wa.me/529934556133
-║➤ *Bot ofc:* wa.me/529934556133
-║➤ *Bot ofc 2:* wa.me/529934556133
-║➤ *PayPal:* https://www.paypal.me/pachonff
+║➤ *Owner:* 𝑻𝑰𝑳𝑰𝑵 
+║➤ *Numero:* wa.me/+528336105471
+║➤ *Bot ofc:* wa.me/+528336105471
+║➤ *Bot ofc 2:* wa.me/+528336105471
+║➤ *PayPal:* https://www.paypal.me/JMartinGarcia492
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -42,7 +42,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣ *🧰 Experiencia:* ${exp}
 ┣ *⚓ Rango:* ${role}
 ┣ *💎 Diamantes:* ${limit}
-┣ *👾 MichCoins:* ${money}
+┣ *👾 GokuCoins:* ${money}
 ┣ *🪙 Tokens:* ${joincount}
 ┣ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 ┗━━━━━━━━━━━━━━━━┛
